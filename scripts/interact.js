@@ -12,13 +12,13 @@ const { toBn } = require("evm-bn")
  */
 
 const esDex_name = "EasySwapOrderBook";
-const esDex_address = "0xcEE5AA84032D4a53a0F9d2c33F36701c3eAD5895"
+const esDex_address = "0xCc5CA9A99d856a3506FB041559fa4516A1fCcb9C"
 
 const esVault_name = "EasySwapVault";
-const esVault_address = "0xaD65f3dEac0Fa9Af4eeDC96E95574AEaba6A2834"
+const esVault_address = "0x12522b4d3e283551021E04f40eF537d4e39A9F1F"
 
 const erc721_name = "TestERC721"
-const erc721_address = "0xF2e0BA02a187F19F5A390E4f990c684d81A833A0"
+const erc721_address = "0x567E645b22d6aB60C43C35B0922669D82e3A3661"
 
 let esDex, esVault, testERC721
 let deployer
